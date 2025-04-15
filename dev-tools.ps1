@@ -28,10 +28,11 @@ $applications = @(
     "Postman.Postman"
     "Microsoft.VisualStudio.2022.Community" # Or Professional/Enterprise
     "Microsoft.SQLServerManagementStudio"
-    "Microsoft.SQLServer.Express"          # Or other SQL Server editions
+    "Microsoft.SQLServer.2022.Express"          # Or other SQL Server editions
     "Microsoft.DotNet.SDK.7"                # Replace with desired .NET SDK version
     "Microsoft.Nodejs.LTS"                  # Installs the latest LTS version of Node.js
     "Notion.Notion"
+    "ApacheFriends.Xampp.8.2"
     "Git.Git"
     "GitHub.cli"
     "GitHub.GitHubDesktop"
