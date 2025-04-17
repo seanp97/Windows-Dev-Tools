@@ -31,6 +31,8 @@ $applications = @(
     "Microsoft.SQLServer.2022.Express"          # Or other SQL Server editions
     "Microsoft.DotNet.SDK.7"                # Replace with desired .NET SDK version
     "OpenJS.NodeJS"                  # Installs the latest LTS version of Node.js
+    "PHP.PHP.8.4"
+    "JetBrains.DataGrip"
     "Notion.Notion"
     "ApacheFriends.Xampp.8.2"
     "Git.Git"
