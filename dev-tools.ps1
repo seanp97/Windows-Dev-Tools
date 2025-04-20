@@ -38,7 +38,7 @@ $applications = @(
     "Git.Git"
     "GitHub.cli"
     "GitHub.GitHubDesktop"
-    "Python.Python.3.9"                    # Replace with desired Python version
+    "Python.Python.3.13"                    # Replace with desired Python version
     "Oracle.JDK.23"
     "Docker.DockerCLI"
     "Docker.DockerDesktop"
