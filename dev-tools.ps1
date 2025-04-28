@@ -36,6 +36,7 @@ $applications = @(
     "Notion.Notion"
     "ApacheFriends.Xampp.8.2"
     "Git.Git"
+    "Flow Launcher"
     "GitHub.cli"
     "GitHub.GitHubDesktop"
     "Python.Python.3.13"                    # Replace with desired Python version
